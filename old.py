@@ -1,5 +1,6 @@
 #! /usr/local/bin python3
 #! /usr/local1/bin/env python3
+
 import readline, sys
 out_of = int(sys.argv[1])
 while 1:
