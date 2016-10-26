@@ -1,4 +1,4 @@
-#! /usr/local/bin/env python3
+#! /usr/local1/bin/env python3
 
 import readline, sys
 
