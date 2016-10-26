@@ -11,3 +11,6 @@ while 1:
         total += int(num)
     print("Total: %d (%f%%)" % (total, total * (100.0 / out_of)))
 
+
+
+haha changed!
