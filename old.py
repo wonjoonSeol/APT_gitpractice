@@ -1,8 +1,6 @@
 #! /usr/local/bin python3
 #! /usr/local1/bin/env python3
-
 import readline, sys
-
 out_of = int(sys.argv[1])
 while 1:
     line = input()
@@ -10,6 +8,4 @@ while 1:
     for num in line.split(" "):
         total += int(num)
     print("Total: %d (%f%%)" % (total, total * (100.0 / out_of)))
-
-Print("Hello")
 
